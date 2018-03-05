@@ -1,10 +1,10 @@
 # Watson
 
-##Introduction
+## Introduction
 
 This project is designed to use Watson API to read a file, "input.txt" and return the analysis to "outfile.txt"
 
-##Instructions
+## Instructions
 
 1. Clone the repo to local computer
    -  run `git clone https://github.com/ssw1991/Watson.git`
